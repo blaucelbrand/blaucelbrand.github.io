@@ -4280,6 +4280,7 @@ figcaption {
 }
 
 .content5-grey-content {
+  z-index: 1;
   position: relative;
   display: -webkit-box;
   display: -webkit-flex;
