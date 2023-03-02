@@ -8934,7 +8934,7 @@ figcaption {
 
 .footer5-logo-link {
   opacity: 0.7;
-  color: #18181d;
+  color: #87ceeb;
   font-size: 12px;
   line-height: 20px;
   font-weight: 500;
@@ -19207,10 +19207,10 @@ figcaption {
 }
 
 #w-node-_8d359ace-8c76-7ccb-ca22-b4580e2811e3-ca9c940e {
-  -ms-grid-column: 3;
-  grid-column-start: 3;
+  -ms-grid-column: 2;
+  grid-column-start: 2;
   -ms-grid-column-span: 8;
-  grid-column-end: 11;
+  grid-column-end: 12;
   -ms-grid-row: 1;
   grid-row-start: 1;
   -ms-grid-row-span: 1;
@@ -24510,6 +24510,11 @@ figcaption {
     grid-column-start: span 6;
     -ms-grid-column-span: 6;
     grid-column-end: span 6;
+  }
+
+  .sizejumbo-text.sizejumbo-full-clear {
+    font-size: 46px;
+    line-height: 46px;
   }
 
   #w-node-d1ef6c09-1d3a-447a-1823-37a6812b2a66-8e9c9378 {
